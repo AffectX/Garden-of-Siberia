@@ -1,0 +1,8 @@
+{
+	"intelephense.environment.includePaths": [
+		"C:/Users/affec/Local Sites/garden-of-siberia/app/public/wp-includes",
+		"C:/Users/affec/Local Sites/garden-of-siberia/app/public/wp-admin",
+		"C:/Users/affec/Local Sites/garden-of-siberia/app/public/wp-content/plugins"
+	],
+	"intelephense.files.maxSize": 5000000
+}
